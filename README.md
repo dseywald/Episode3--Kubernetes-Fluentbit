@@ -165,7 +165,7 @@ The configuration file is stored in a ConfigMap
 ```
 kubectl get cm
 ```
-<p align="center"><img src="/image/getcm.png" width="60%" alt="grafana explore" /></p>
+<p align="center"><img src="/image/getcm.PNG" width="60%" alt="grafana explore" /></p>
 
 ```yaml
 [SERVICE]
